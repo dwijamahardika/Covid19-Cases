@@ -1,2 +1,2 @@
 # Covid19-Cases
-Data visualization using numpy and matplotlib library
+Data mining and data visualization using numpy and matplotlib library
